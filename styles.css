@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+}
+
+body{
+    background: linear-gradient(to right, rgb(97, 178, 219), rgb(42, 147, 107))
+}
+
+.container{
+    margin: auto;
+    text-align: center;
+    color: white;
+    padding: 5%;
+    width: auto;
+    border: None !important;
+}
+
+.time{
+    padding: 3%;
+    font-size: 5em;
+}
+
+.date{
+    padding: 2%;
+    font-size: 2.5em;
+}
+
+input[type="color"] {
+	-webkit-appearance: none;
+	border: none;
+	width: 32px;
+    height: 32px;
+}
+
+.color-change{
+    padding: 3%;
+    font-size: 1.5em;
+}
